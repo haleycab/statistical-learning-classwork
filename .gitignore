@@ -1,0 +1,25 @@
+# PDFs
+*.pdf
+
+# Markdown study guides / notes
+*.md
+
+# LaTeX
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# macOS
+.DS_Store
+
+# Zip archives
+*.zip
+
+# HTML and related assets
+*.html
+Homework*/
+
+# Data files (large/binary)
+*.arff
